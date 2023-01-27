@@ -22,7 +22,7 @@
  
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/TKLYA7)
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MyBotzz/RashmikaBot)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Akpunk13/RashmikaBot)
 
 [![Deploy to Herokubot](https://www.herokucdn.com/deploy/button.svg)](https://telegram.dog/XTZ_HerokuBot?start=Sm9lbGtiL0RRLXRoZS1maWxlLWRvbm9yIG1hc3Rlcg)
 
